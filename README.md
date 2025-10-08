@@ -13,12 +13,12 @@ Most of DMLab's codebase is at [Bitbucket](https://bitbucket.org/gsudmlab/).
 
 | Resource | URL |
 |-----------|-----|
-| 🌐 Personal Website | [berkayaydin.net](https://www.berkayaydin.net/) |
-| 🏛️ Department | [Computer Science, Georgia State University](http://www.csds.gsu.edu/) |
-| 🎓 Google Scholar | [View Profile](https://scholar.google.com/citations?hl=en&user=wzBXxO4AAAAJ) |
-| 🧩 ORCID | [0000-0002-9799-9265](https://orcid.org/0000-0002-9799-9265) |
-| 🧠 ResearchGate | [Profile](https://www.researchgate.net/profile/Berkay-Aydin) |
-| 💼 LinkedIn | [Profile](https://linkedin.com/in/berkay-aydin) |
+| Personal Website | [berkayaydin.net](https://www.berkayaydin.net/) |
+| Department | [Computer Science, Georgia State University](http://www.cs.gsu.edu/) |
+| Google Scholar | [View Profile](https://scholar.google.com/citations?hl=en&user=wzBXxO4AAAAJ) |
+| ORCID | [0000-0002-9799-9265](https://orcid.org/0000-0002-9799-9265) |
+| ResearchGate | [Profile](https://www.researchgate.net/profile/Berkay-Aydin) |
+| LinkedIn | [Profile](https://linkedin.com/in/berkay-aydin) |
 
 ---
 
