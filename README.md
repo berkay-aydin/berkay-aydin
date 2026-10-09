@@ -1,6 +1,6 @@
 # Berkay Aydin
 
-**Assistant Professor**  
+**Associate Professor**  
 Department of Computer Science, [Georgia State University](http://www.gsu.edu/)  
 
 
